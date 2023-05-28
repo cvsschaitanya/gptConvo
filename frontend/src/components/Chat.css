@@ -1,0 +1,18 @@
+.role {
+    width: 90px;
+    padding-right: 10px;
+    float: left;
+    text-align: right;
+}
+
+.user-role {
+    color: red;
+}
+
+.assistant-role {
+    color: rgb(14, 206, 129);
+}
+
+.content {
+    color: white;
+}

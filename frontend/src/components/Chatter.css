@@ -1,0 +1,21 @@
+.Chatter {
+    background-color: #282c34;
+    height: 100vh;
+    width: 90%;
+    margin: auto;
+}
+
+.footer {
+    flex: 1;
+    display: flex;
+    margin: 3px;
+    margin-top: 3px;
+}
+
+#textBox {
+    width: 100%;
+}
+
+.send-button {
+    margin: 0 5px 0 5px;
+}
